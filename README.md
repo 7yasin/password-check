@@ -7,4 +7,4 @@ Checks whether the value entered in the HTML Password input meets the requiremen
 
 ## Project Info
 <h5>Project Date: 2023</h5>
-<h5>Lisance: MIT</h5>
+<h5>License: MIT</h5>
