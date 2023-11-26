@@ -2,7 +2,7 @@
 Checks whether the value entered in the HTML Password input meets the requirements.
 
 
-  <img width="45%"  src="https://github.com/7yasin/password-check/blob/main/images/project.gif">
+  <img width="25%"  src="https://github.com/7yasin/password-check/blob/main/images/project.gif">
 
 
 ## Project Info
